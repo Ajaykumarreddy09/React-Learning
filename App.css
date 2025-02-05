@@ -1,0 +1,10 @@
+ul{
+    background-color: aqua;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    padding-right: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
